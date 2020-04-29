@@ -1,7 +1,8 @@
-REM CJC sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
-REM DIRINDEX 1\2,1\3,1\4,1\5,1\6,1\7,1\8
-REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder07
+CJM sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
+DIRINDEX 1\2,1\3,1\4,1\5,1\6,1\7,1\8
+DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder07
 
+#
 001 でる文01.mp3
 00:00:00 8:cjc150_0001
 00:06:18 0:
@@ -60,6 +61,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:49:22 7:cjc150_0046
 01:53:39 7:cjc150_0047
 01:57:37 0:
+#
 001 でる文11.mp3
 00:00:00 8:cjc150_0465
 00:01:69 0:
@@ -116,6 +118,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:49:16 7:cjc150_0509
 01:53:74 7:cjc150_0510
 01:58:13 0:
+#
 001 でる文21.mp3
 00:00:00 0:
 00:00:01 8:cjc150_0910
@@ -179,6 +182,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:55:20 7:cjc150_0960
 02:00:33 7:cjc150_0961
 02:05:58 0:
+#
 001 でる文31.mp3
 00:00:00 8:cjc150_1415
 00:01:62 0:
@@ -247,6 +251,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:20:65 7:cjc150_1471
 02:27:26 7:cjc150_1472
 02:33:64 0:
+#
 001 でる文41.mp3
 00:00:00 0:
 00:00:01 8:cjc150_1914
@@ -298,6 +303,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:38:16 7:cjc150_1952
 01:42:65 7:cjc150_1953
 01:47:29 0:
+#
 001 でる文51.mp3
 00:00:00 8:cjc150_2413
 00:01:64 0:
@@ -354,6 +360,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:59:40 7:cjc150_2457
 02:05:44 7:cjc150_2458
 02:11:59 0:
+#
 001 でる文61.mp3
 00:00:00 8:cjc150_2900
 00:01:46 0:
@@ -422,6 +429,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:27:07 7:cjc150_2956
 02:34:24 7:cjc150_2957
 02:41:30 0:
+#
 001 でる文71.mp3
 00:00:00 8:cjc150_3399
 00:01:68 0:
@@ -490,6 +498,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:32:61 7:cjc150_3455
 02:40:33 7:cjc150_3456
 02:48:05 0:
+#
 002 でる文02.mp3
 00:00:00 0:
 00:00:01 8:cjc150_0048
@@ -551,6 +560,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:46:00 7:cjc150_0097
 01:50:00 7:cjc150_0098
 01:53:06 0:
+#
 002 でる文12.mp3
 00:00:00 8:cjc150_0511
 00:01:34 0:
@@ -605,6 +615,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:57:11 7:cjc150_0554
 02:02:62 7:cjc150_0555
 02:07:22 0:
+#
 002 でる文22.mp3
 00:00:00 8:cjc150_0962
 00:01:42 0:
@@ -659,6 +670,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:47:09 7:cjc150_1005
 01:51:64 7:cjc150_1006
 01:56:65 0:
+#
 002 でる文32.mp3
 00:00:00 0:
 00:00:01 8:cjc150_1473
@@ -714,6 +726,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:46:23 7:cjc150_1516
 01:51:15 7:cjc150_1517
 01:55:50 0:
+#
 002 でる文42.mp3
 00:00:00 0:
 00:00:01 8:cjc150_1954
@@ -781,6 +794,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:24:63 7:cjc150_2009
 02:31:73 7:cjc150_2010
 02:38:65 0:
+#
 002 でる文52.mp3
 00:00:00 8:cjc150_2459
 00:01:48 0:
@@ -835,6 +849,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:58:64 7:cjc150_2502
 02:04:41 7:cjc150_2503
 02:10:06 0:
+#
 002 でる文62.mp3
 00:00:00 8:cjc150_2958
 00:01:60 0:
@@ -889,6 +904,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:53:16 7:cjc150_3001
 01:58:54 7:cjc150_3002
 02:04:29 0:
+#
 002 でる文72.mp3
 00:00:00 0:
 00:00:01 8:cjc150_3457
@@ -944,6 +960,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:01:41 7:cjc150_3500
 02:07:63 7:cjc150_3501
 02:14:35 0:
+#
 003 でる文03.mp3
 00:00:00 0:
 00:00:01 8:cjc150_0099
@@ -1005,6 +1022,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:51:60 7:cjc150_0148
 01:56:20 7:cjc150_0149
 01:59:71 0:
+#
 003 でる文13.mp3
 00:00:00 0:
 00:00:01 8:cjc150_0556
@@ -1060,6 +1078,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:44:11 7:cjc150_0599
 01:49:00 7:cjc150_0600
 01:53:45 0:
+#
 003 でる文23.mp3
 00:00:00 8:cjc150_1007
 00:01:54 0:
@@ -1114,6 +1133,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:41:34 7:cjc150_1050
 01:46:04 7:cjc150_1051
 01:50:74 0:
+#
 003 でる文33.mp3
 00:00:00 0:
 00:00:01 8:cjc150_1518
@@ -1181,6 +1201,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:12:38 7:cjc150_1573
 02:19:15 7:cjc150_1574
 02:25:61 0:
+#
 003 でる文43.mp3
 00:00:00 0:
 00:00:01 8:cjc150_2011
@@ -1236,6 +1257,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:56:63 7:cjc150_2054
 02:03:24 7:cjc150_2055
 02:09:66 0:
+#
 003 でる文53.mp3
 00:00:00 8:cjc150_2504
 00:01:50 0:
@@ -1290,6 +1312,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:59:44 7:cjc150_2547
 02:05:33 7:cjc150_2548
 02:10:73 0:
+#
 003 でる文63.mp3
 00:00:00 8:cjc150_3003
 00:01:62 0:
@@ -1350,6 +1373,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:11:12 7:cjc150_3052
 02:17:57 7:cjc150_3053
 02:24:20 0:
+#
 003 でる文73.mp3
 00:00:00 0:
 00:00:01 8:cjc150_3502
@@ -1405,6 +1429,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:56:36 7:cjc150_3545
 02:02:46 7:cjc150_3546
 02:08:58 0:
+#
 004 でる文04.mp3
 00:00:00 0:
 00:00:01 8:cjc150_0150
@@ -1454,6 +1479,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:36:52 7:cjc150_0187
 01:41:01 7:cjc150_0188
 01:44:30 0:
+#
 004 でる文14.mp3
 00:00:00 8:cjc150_0601
 00:01:40 0:
@@ -1508,6 +1534,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:44:11 7:cjc150_0644
 01:49:08 7:cjc150_0645
 01:53:53 0:
+#
 004 でる文24.mp3
 00:00:00 8:cjc150_1052
 00:01:46 0:
@@ -1574,6 +1601,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:08:50 7:cjc150_1107
 02:14:45 7:cjc150_1108
 02:20:30 0:
+#
 004 でる文34.mp3
 00:00:00 8:cjc150_1575
 00:01:54 0:
@@ -1628,6 +1656,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:54:74 7:cjc150_1618
 02:00:35 7:cjc150_1619
 02:06:08 0:
+#
 004 でる文44.mp3
 00:00:00 8:cjc150_2056
 00:01:54 0:
@@ -1676,6 +1705,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:55:67 7:cjc150_2093
 02:02:13 7:cjc150_2094
 02:08:50 0:
+#
 004 でる文54.mp3
 00:00:00 8:cjc150_2549
 00:01:52 0:
@@ -1736,6 +1766,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:15:13 7:cjc150_2598
 02:21:73 7:cjc150_2599
 02:28:45 0:
+#
 004 でる文64.mp3
 00:00:00 8:cjc150_3054
 00:01:54 0:
@@ -1784,6 +1815,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:51:05 7:cjc150_3091
 01:56:71 7:cjc150_3092
 02:03:30 0:
+#
 004 でる文74.mp3
 00:00:00 8:cjc150_3547
 00:01:56 0:
@@ -1832,6 +1864,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:41:61 7:cjc150_3584
 01:46:63 7:cjc150_3585
 01:51:68 0:
+#
 005 でる文05.mp3
 00:00:00 8:cjc150_0189
 00:01:11 0:
@@ -1886,6 +1919,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:43:39 7:cjc150_0232
 01:48:24 7:cjc150_0233
 01:52:30 0:
+#
 005 でる文15.mp3
 00:00:00 0:
 00:00:01 8:cjc150_0646
@@ -1941,6 +1975,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:49:39 7:cjc150_0689
 01:55:01 7:cjc150_0690
 01:59:53 0:
+#
 005 でる文25.mp3
 00:00:00 8:cjc150_1109
 00:01:48 0:
@@ -2001,6 +2036,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:01:48 7:cjc150_1158
 02:07:08 7:cjc150_1159
 02:12:74 0:
+#
 005 でる文35.mp3
 00:00:00 0:
 00:00:01 8:cjc150_1620
@@ -2056,6 +2092,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:43:58 7:cjc150_1663
 01:48:67 7:cjc150_1664
 01:53:43 0:
+#
 005 でる文45.mp3
 00:00:00 0:
 00:00:01 8:cjc150_2095
@@ -2111,6 +2148,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:46:37 7:cjc150_2138
 01:51:48 7:cjc150_2139
 01:56:43 0:
+#
 005 でる文55.mp3
 00:00:00 8:cjc150_2600
 00:01:52 0:
@@ -2165,6 +2203,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:56:41 7:cjc150_2643
 02:02:11 7:cjc150_2644
 02:07:65 0:
+#
 005 でる文65.mp3
 00:00:00 0:
 00:00:03 8:cjc150_3093
@@ -2226,6 +2265,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:56:12 7:cjc150_3142
 02:02:18 7:cjc150_3143
 02:08:58 0:
+#
 005 でる文75.mp3
 00:00:00 0:
 00:00:01 8:cjc150_3586
@@ -2287,6 +2327,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:05:44 7:cjc150_3635
 02:12:01 7:cjc150_3636
 02:18:72 0:
+#
 006 でる文06.mp3
 00:00:00 8:cjc150_0234
 00:01:26 0:
@@ -2341,6 +2382,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:46:72 7:cjc150_0277
 01:52:49 7:cjc150_0278
 01:57:37 0:
+#
 006 でる文16.mp3
 00:00:00 0:
 00:00:01 8:cjc150_0691
@@ -2396,6 +2438,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:52:28 7:cjc150_0734
 01:57:45 7:cjc150_0735
 02:02:38 0:
+#
 006 でる文26.mp3
 00:00:00 8:cjc150_1160
 00:01:50 0:
@@ -2450,6 +2493,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:55:20 7:cjc150_1203
 02:00:69 7:cjc150_1204
 02:06:14 0:
+#
 006 でる文36.mp3
 00:00:00 0:
 00:00:01 8:cjc150_1665
@@ -2517,6 +2561,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:09:50 7:cjc150_1720
 02:15:51 7:cjc150_1721
 02:22:13 0:
+#
 006 でる文46.mp3
 00:00:00 0:
 00:00:01 8:cjc150_2140
@@ -2572,6 +2617,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:03:61 7:cjc150_2183
 02:10:36 7:cjc150_2184
 02:17:14 0:
+#
 006 でる文56.mp3
 00:00:00 8:cjc150_2645
 00:01:64 0:
@@ -2632,6 +2678,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:03:36 7:cjc150_2694
 02:09:32 7:cjc150_2695
 02:15:74 0:
+#
 006 でる文66.mp3
 00:00:00 8:cjc150_3144
 00:01:60 0:
@@ -2692,6 +2739,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:04:06 7:cjc150_3193
 02:10:06 7:cjc150_3194
 02:16:13 0:
+#
 006 でる文76.mp3
 00:00:00 8:cjc150_3637
 00:01:56 0:
@@ -2764,6 +2812,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:20:18 7:cjc150_3698
 02:27:01 7:cjc150_3699
 02:34:50 0:
+#
 007 でる文07.mp3
 00:00:00 0:
 00:00:01 8:cjc150_0279
@@ -2819,6 +2868,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:39:23 7:cjc150_0322
 01:43:70 7:cjc150_0323
 01:47:39 0:
+#
 007 でる文17.mp3
 00:00:00 8:cjc150_0736
 00:01:42 0:
@@ -2879,6 +2929,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:44:54 7:cjc150_0785
 01:49:35 7:cjc150_0786
 01:53:51 0:
+#
 007 でる文27.mp3
 00:00:00 0:
 00:00:01 8:cjc150_1205
@@ -2934,6 +2985,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:00:65 7:cjc150_1248
 02:06:46 7:cjc150_1249
 02:12:21 0:
+#
 007 でる文37.mp3
 00:00:00 0:
 00:00:01 8:cjc150_1722
@@ -2989,6 +3041,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:01:48 7:cjc150_1765
 02:07:49 7:cjc150_1766
 02:13:28 0:
+#
 007 でる文47.mp3
 00:00:00 8:cjc150_2185
 00:01:56 0:
@@ -3055,6 +3108,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:11:49 7:cjc150_2240
 02:17:49 7:cjc150_2241
 02:23:72 0:
+#
 007 でる文57.mp3
 00:00:00 0:
 00:00:01 8:cjc150_2696
@@ -3110,6 +3164,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:56:06 7:cjc150_2739
 02:01:72 7:cjc150_2740
 02:08:13 0:
+#
 007 でる文67.mp3
 00:00:00 8:cjc150_3195
 00:01:54 0:
@@ -3164,6 +3219,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:43:74 7:cjc150_3238
 01:48:34 7:cjc150_3239
 01:54:05 0:
+#
 007 でる文77.mp3
 00:00:00 0:
 00:00:01 8:cjc150_3700
@@ -3219,6 +3275,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:03:59 7:cjc150_3743
 02:10:02 7:cjc150_3744
 02:16:58 0:
+#
 008 でる文08.mp3
 00:00:00 0:
 00:00:01 8:cjc150_0324
@@ -3274,6 +3331,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:54:33 7:cjc150_0367
 02:00:20 7:cjc150_0368
 02:05:42 0:
+#
 008 でる文18.mp3
 00:00:00 8:cjc150_0787
 00:01:48 0:
@@ -3322,6 +3380,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:39:66 7:cjc150_0824
 01:44:72 7:cjc150_0825
 01:49:51 0:
+#
 008 でる文28.mp3
 00:00:00 8:cjc150_1250
 00:01:58 0:
@@ -3388,6 +3447,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:22:27 7:cjc150_1305
 02:30:05 7:cjc150_1306
 02:38:01 0:
+#
 008 でる文38.mp3
 00:00:00 0:
 00:00:01 8:cjc150_1767
@@ -3443,6 +3503,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:50:70 7:cjc150_1810
 01:56:39 7:cjc150_1811
 02:02:05 0:
+#
 008 でる文48.mp3
 00:00:00 8:cjc150_2242
 00:01:60 0:
@@ -3509,6 +3570,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:17:10 7:cjc150_2297
 02:23:60 7:cjc150_2298
 02:30:23 0:
+#
 008 でる文58.mp3
 00:00:00 8:cjc150_2741
 00:01:58 0:
@@ -3569,6 +3631,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:14:14 7:cjc150_2790
 02:21:10 7:cjc150_2791
 02:28:00 0:
+#
 008 でる文68.mp3
 00:00:00 8:cjc150_3240
 00:01:64 0:
@@ -3641,6 +3704,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:29:66 7:cjc150_3301
 02:37:19 7:cjc150_3302
 02:44:74 0:
+#
 008 でる文78.mp3
 00:00:00 0:
 00:00:01 8:cjc150_3745
@@ -3708,6 +3772,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:23:60 7:cjc150_3800
 02:31:04 7:cjc150_3801
 02:38:12 0:
+#
 009 でる文09.mp3
 00:00:00 8:cjc150_0369
 00:01:28 0:
@@ -3762,6 +3827,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:43:70 7:cjc150_0412
 01:48:67 7:cjc150_0413
 01:53:43 0:
+#
 009 でる文19.mp3
 00:00:00 0:
 00:00:01 8:cjc150_0826
@@ -3817,6 +3883,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:43:70 7:cjc150_0869
 01:48:48 7:cjc150_0870
 01:53:21 0:
+#
 009 でる文29.mp3
 00:00:00 0:
 00:00:01 8:cjc150_1307
@@ -3884,6 +3951,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:07:12 7:cjc150_1362
 02:12:70 7:cjc150_1363
 02:18:41 0:
+#
 009 でる文39.mp3
 00:00:00 0:
 00:00:03 8:cjc150_1812
@@ -3939,6 +4007,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:03:02 7:cjc150_1855
 02:09:17 7:cjc150_1856
 02:15:43 0:
+#
 009 でる文49.mp3
 00:00:00 0:
 00:00:01 8:cjc150_2299
@@ -4006,6 +4075,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:14:73 7:cjc150_2354
 02:21:71 7:cjc150_2355
 02:28:51 0:
+#
 009 でる文59.mp3
 00:00:00 8:cjc150_2792
 00:01:56 0:
@@ -4060,6 +4130,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:57:11 7:cjc150_2835
 02:02:44 7:cjc150_2836
 02:08:00 0:
+#
 009 でる文69.mp3
 00:00:00 0:
 00:00:01 8:cjc150_3303
@@ -4121,6 +4192,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:58:42 7:cjc150_3352
 02:03:69 7:cjc150_3353
 02:09:36 0:
+#
 009 でる文79.mp3
 00:00:00 0:
 00:00:01 8:cjc150_3802
@@ -4182,6 +4254,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:11:00 7:cjc150_3851
 02:17:61 7:cjc150_3852
 02:24:46 0:
+#
 010 でる文10.mp3
 00:00:00 0:
 00:00:01 8:cjc150_0414
@@ -4243,6 +4316,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:56:61 7:cjc150_0463
 02:01:37 7:cjc150_0464
 02:06:06 0:
+#
 010 でる文20.mp3
 00:00:00 0:
 00:00:01 8:cjc150_0871
@@ -4292,6 +4366,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:32:27 7:cjc150_0908
 01:36:58 7:cjc150_0909
 01:41:52 0:
+#
 010 でる文30.mp3
 00:00:00 8:cjc150_1364
 00:01:50 0:
@@ -4352,6 +4427,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:57:35 7:cjc150_1413
 02:02:46 7:cjc150_1414
 02:07:22 0:
+#
 010 でる文40.mp3
 00:00:00 0:
 00:00:01 8:cjc150_1857
@@ -4419,6 +4495,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:03:34 7:cjc150_1912
 02:09:07 7:cjc150_1913
 02:14:53 0:
+#
 010 でる文50.mp3
 00:00:00 0:
 00:00:01 8:cjc150_2356
@@ -4486,6 +4563,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:09:15 7:cjc150_2411
 02:15:21 7:cjc150_2412
 02:21:14 0:
+#
 010 でる文60.mp3
 00:00:00 0:
 00:00:01 8:cjc150_2837
@@ -4559,6 +4637,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:36:23 7:cjc150_2898
 02:44:36 7:cjc150_2899
 02:52:46 0:
+#
 010 でる文70.mp3
 00:00:00 0:
 00:00:01 8:cjc150_3354
@@ -4614,6 +4693,7 @@ REM DIRNAME cjc150,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:12:29 7:cjc150_3397
 02:19:29 7:cjc150_3398
 02:26:37 0:
+#
 010 でる文80.mp3
 00:00:00 0:
 00:00:01 8:cjc150_3853
